@@ -1,1 +1,1 @@
-This is a scratch implementation of linear regression on two data sets.
+Solving problems using ML algorithms
